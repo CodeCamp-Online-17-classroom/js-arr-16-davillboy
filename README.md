@@ -6,3 +6,5 @@
 const dashedText = "background-color";
 console.log(convertToCamelCase(dashedText)); // "backgroundColor"
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
